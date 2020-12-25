@@ -1,0 +1,56 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: monospace;
+}
+
+#title{
+  text-align: center;
+  font-size: 2rem;
+}
+#img-caption{
+  width: 400px;
+}
+
+#image{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-div{
+  display: block;
+}
+
+#tribute-info{
+   text-align: center;
+   font-size: 1.5rem;
+ }
+
+ .personality{
+   font-size: 1rem;
+ }
+ ul {
+   display: table;
+   margin: 0 auto;
+ }
+
+ figcaption{
+   text-align:
+  center;
+  display: table;
+  margin: 0 auto;
+ }
+
+ .link-text{
+   display: table;
+   margin: 0 auto;
+   text-align: center;
+ }
+
+ .bio-timeline{
+   font-size: 1.5rem;
+   padding: 5px;
+   line-height: 3;
+ }
